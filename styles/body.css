@@ -269,6 +269,7 @@ body{
     flex-direction: row;
 }
 .f1_left{
+    padding-top: 15px;
     flex:1;
     /* background-color: violet; */
     display: flex;
